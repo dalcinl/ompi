@@ -287,6 +287,7 @@ $constants->{MPI_DISTRIBUTE_DFLT_DARG} = -1;
 $constants->{MPI_TYPECLASS_INTEGER} = 1;
 $constants->{MPI_TYPECLASS_REAL} = 2;
 $constants->{MPI_TYPECLASS_COMPLEX} = 3;
+$constants->{MPI_TYPECLASS_LOGICAL} = 4;
 $constants->{MPI_MODE_NOCHECK} = 1;
 $constants->{MPI_MODE_NOPRECEDE} = 2;
 $constants->{MPI_MODE_NOPUT} = 4;

@@ -226,6 +226,7 @@ $handles->{MPI_C_DOUBLE_COMPLEX} = 70;
 $handles->{MPI_C_LONG_DOUBLE_COMPLEX} = 71;
 $handles->{MPI_COUNT} = 72;
 $handles->{MPI_COMPLEX4} = 73;
+$handles->{MPI_LOGICAL16} = 74;
 
 $handles->{MPI_MESSAGE_NO_PROC} = 1;
 
